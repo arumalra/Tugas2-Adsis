@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Qurrota A'yunin
                 </div>
 
                 <div class="links">
