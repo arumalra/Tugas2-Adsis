@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Qurrota A'yunin
+                    Konflik branch Ayun
                 </div>
 
                 <div class="links">
