@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Konflik branch Ayun
+                    Konflik di branch Ayun
                 </div>
 
                 <div class="links">
