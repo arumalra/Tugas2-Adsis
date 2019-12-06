@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Qurrota A'yunin
+                    Qurrota A'yunin <hr> Arum Alra Warani
                 </div>
 
                 <div class="links">
